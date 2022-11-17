@@ -1,4 +1,4 @@
-# flutter_movie_app
+# flutter_coffee_ui_app
 
 A new Flutter project.
 
